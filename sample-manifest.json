@@ -1,0 +1,12 @@
+{
+  "export_job_id": "858e628d-3e81-4bf3-8397-8c76667952a5",
+  "id_short": 375241,
+  "published_at": "2026-04-11T19:42:15Z",
+  "repo_name": "tech-ready-restaurants-in-the-st-louis-metro-area-mo-il-us-sample-375241",
+  "sample_asset_name": "beamstation_375241_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/375241/beamstation_375241_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "8f96fd50654a8acd55e0cb40b003ee51a47be3a1d78c325d5658992e031355b0",
+  "sample_size_bytes": 20068,
+  "total_records": 18
+}
