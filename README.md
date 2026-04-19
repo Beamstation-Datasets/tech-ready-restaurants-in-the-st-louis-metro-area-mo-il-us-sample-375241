@@ -9,9 +9,9 @@
 | Dataset ID | `375241` |
 | Location | St. Louis, MO-IL |
 | Category | Restaurants |
-| Full dataset size | 18 records |
-| Free sample size | 1 records (5.56%) |
-| Last export | 2026-04-08T05:53:55.223171+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-15T09:51:21.038463+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-st-louis-metro-area-mo-il-us-sample-375241/releases/download/sample-latest/beamstation_375241_restaurants-us-stlouismoil_SAMPLE_DIST.csv) |
 
 ## What is in this sample
